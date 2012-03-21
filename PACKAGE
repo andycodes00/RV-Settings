@@ -1,0 +1,22 @@
+package: Keybindings and other stuff
+author: Andrew Bunday
+organization: Baseblack
+contact: andrew.bunday@baseblack.com
+version: 1.0
+requires: ''
+rv: 3.9
+url: http://tech.baseblack.com
+system: true
+hidden: false
+
+modes:
+  - file: bb_settings.mu
+    menu: ''
+    shortcut: ''
+    event: ''
+    load: immediate
+
+description: |
+
+  <p>This package implements Anamorphic unsqueeze keybindings and stuff</p>
+
